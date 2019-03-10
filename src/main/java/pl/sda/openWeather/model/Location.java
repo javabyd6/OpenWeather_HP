@@ -1,4 +1,4 @@
-package pl.sda.openWeather;
+package pl.sda.openWeather.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

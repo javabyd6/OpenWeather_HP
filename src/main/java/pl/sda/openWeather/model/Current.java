@@ -1,10 +1,9 @@
-package pl.sda.openWeather;
+package pl.sda.openWeather.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-import java.util.List;
+import pl.sda.openWeather.model.Condition;
 
 /**
  * @author perczynski
